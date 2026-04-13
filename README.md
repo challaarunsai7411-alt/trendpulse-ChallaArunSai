@@ -56,27 +56,6 @@ trendpulse-yourname/
 │
 └── README.md
 ```
-
----
-
-## 🛠 Tech Stack
-
-- Python  
-- Requests  
-- Pandas  
-- Matplotlib  
-
----
-
-## ▶️ How to Run
-
-```bash
-python task1_data_collection.py
-python task2_data_processing.py
-python task3_analysis.py
-python task4_visualization.py
-```
-
 ---
 
 ## 📊 Output
@@ -90,7 +69,7 @@ python task4_visualization.py
 
 ## 📸 Screenshots
 
-### 🔹 Data Collection Output
+### 🔹 Program output
 
 ![Data Collection Output](images/output.png)
 
@@ -102,19 +81,13 @@ python task4_visualization.py
 
 ---
 
-### 🔹 Analysis Output
+### 🔹 Visualization outputs
 
 ![Analysis Output](images/analysis.png)
 
----
-
-### 🔹 Visualization - Category Count
 
 ![Bar Chart](images/bar_chart.png)
 
----
-
-### 🔹 Visualization - Score Distribution
 
 ![Histogram](images/histogram.png)
 
@@ -135,9 +108,3 @@ python task4_visualization.py
 - ✔ Clean dataset generated  
 - ✔ Insights extracted  
 - ✔ Visualizations created  
-
----
-
-## 📌 Note
-
-All data is fetched live from the HackerNews public API and processed locally.
