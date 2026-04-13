@@ -1,0 +1,75 @@
+post_id,title,category,score,num_comments,author,collected_at
+47750872,Servo is now available on crates.io,technology,179,62,ffin,2026-04-13 21:19:48
+47751621,Initial mainline video capture and camera support for Rockchip RK3588,technology,15,1,mfilion,2026-04-13 21:19:51
+47753643,Claude.ai down,technology,27,9,rob,2026-04-13 21:19:52
+47748064,The economics of software teams: Why most engineering orgs are flying blind,technology,317,165,kiyanwang,2026-04-13 21:19:53
+47750821,Michigan 'digital age' bills pulled after privacy concerns raised,technology,102,45,iamnothere,2026-04-13 21:19:55
+47742200,Show HN: boringBar – a taskbar-style dock replacement for macOS,entertainment,450,251,a-ve,2026-04-13 21:19:58
+47749674,Show HN: I built a social media management tool in 3 weeks with Claude and Codex,technology,144,95,JanSchu,2026-04-13 21:20:01
+47719490,I gave every train in New York an instrument,technology,346,69,joshuawolk,2026-04-13 21:20:02
+47750259,Point Cloud Allemansrätten,technology,31,4,ColinWright,2026-04-13 21:20:04
+47744255,I ran Gemma 4 as a local model in Codex CLI,technology,170,73,dvaughan,2026-04-13 21:20:05
+47738978,"We have a 99% email reputation, but Gmail disagrees",technology,314,274,em-bee,2026-04-13 21:20:06
+47738883,Tell HN: Docker pull fails in Spain due to football Cloudflare block,technology,1050,384,littlecranky67,2026-04-13 21:20:07
+47739174,Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card),entertainment,219,70,Rochus,2026-04-13 21:20:08
+47747017,"Apple's accidental moat: How the ""AI Loser"" may end up winning",technology,345,298,walterbell,2026-04-13 21:20:09
+47733217,Exploiting the most prominent AI agent benchmarks,technology,555,134,Anon84,2026-04-13 21:20:09
+47751032,"AI could be the end of the digital wave, not the next big thing",technology,147,197,surprisetalk,2026-04-13 21:20:11
+47741460,How long-distance couples use digital games to facilitate intimacy (2025),entertainment,119,37,radeeyate,2026-04-13 21:20:15
+47749222,"Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",technology,60,49,LostMyLogin,2026-04-13 21:20:19
+47749295,Show HN: Equirect – a Rust VR video player,sports,7,0,greggman65,2026-04-13 21:20:21
+47751265,Rockstar hackers set to release GTA 6 data breach as 'demands not met',technology,10,4,01-_-,2026-04-13 21:20:23
+47741393,Textbooks and Methods of Note-Taking in Early Modern Europe (2008),entertainment,46,0,mooreds,2026-04-13 21:20:28
+47738864,Why AI Sucks at Front End,technology,95,134,tobr,2026-04-13 21:20:28
+47743819,Basics of Radar Technology,technology,34,0,_Microft,2026-04-13 21:20:30
+47747248,"Haunt, the 70s text adventure game, is now playable on a website",entertainment,76,22,jscalo,2026-04-13 21:20:32
+47738343,The Physics of GPS,science,146,34,maouida,2026-04-13 21:20:34
+47741531,"Bouncer: Block ""crypto"", ""rage politics"", and more from your X feed using AI",technology,52,98,steveharing1,2026-04-13 21:20:35
+47741889,Show HN: Claudraband – Claude Code for the Power User,technology,113,39,halfwhey,2026-04-13 21:20:36
+47724352,Filing the corners off my MacBooks,entertainment,1380,657,normanvalentine,2026-04-13 21:20:37
+47752301,Booking.com warns customers of hack that exposed their data,technology,10,2,Brajeshwar,2026-04-13 21:20:38
+47736555,I run multiple $10K MRR companies on a $20/month tech stack,technology,908,490,tradertef,2026-04-13 21:20:40
+47745120,Tech valuations are back to pre-AI boom levels,technology,142,39,akyuu,2026-04-13 21:20:42
+47743700,European AI. A playbook to own it,technology,192,119,hjouneau,2026-04-13 21:20:46
+47734878,High-Level Rust: Getting 80% of the Benefits with 20% of the Pain,technology,74,91,maxloh,2026-04-13 21:20:50
+47698455,Starfling: A one-tap endless orbital slingshot game in a single HTML file,entertainment,619,152,iceberger2001,2026-04-13 21:20:54
+47722333,"Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",worldnews,433,274,neversaydie,2026-04-13 21:21:05
+47698111,Bevy game development tutorials and in-depth resources,entertainment,137,59,GenericCanadian,2026-04-13 21:21:07
+47745300,Show HN: A social feed with no strangers,entertainment,8,3,rpatni,2026-04-13 21:21:13
+47733066,New synthesis of astronomical measurements shows Hubble tension is real,entertainment,74,14,anigbrowl,2026-04-13 21:21:15
+47745543,New metal with triple copper's heat conduction challenges fundamental physics,science,28,10,thunderbong,2026-04-13 21:21:18
+47713495,Team from ETH Zurich make high quality quantum swap gate using a geometric phase,sports,236,55,joko42,2026-04-13 21:21:19
+47745261,Vegetative Patients May Be More Aware Than We Knew,worldnews,34,13,bookofjoe,2026-04-13 21:21:25
+47701769,The Bra-and-Girdle Maker That Fashioned the Impossible for NASA,science,133,19,sohkamyung,2026-04-13 21:21:26
+47745230,Sam Altman's home targeted in second attack,worldnews,138,310,babelfish,2026-04-13 21:21:29
+47728323,Relics of the Heroic Age of Manned Space Flight,science,20,1,zdgeier,2026-04-13 21:21:32
+47721997,Show HN: FluidCAD – Parametric CAD with JavaScript,entertainment,154,37,maouida,2026-04-13 21:21:34
+47721946,JSON formatter Chrome plugin now closed and injecting adware,worldnews,284,135,jkl5xx,2026-04-13 21:21:52
+47708818,Native Instant Space Switching on macOS,science,639,323,PaulHoule,2026-04-13 21:21:54
+47699470,The Life and Death of the Book Review,entertainment,30,7,lermontov,2026-04-13 21:22:03
+47722011,Show HN: A WYSIWYG word processor in Python,entertainment,86,39,chrisecker,2026-04-13 21:22:06
+47721255,Show HN: Eve – Managed OpenClaw for work,entertainment,71,39,zachdive,2026-04-13 21:22:09
+47705413,Show HN: I built a Cargo-like build tool for C/C++,entertainment,173,166,randerson_112,2026-04-13 21:22:10
+47730522,Show HN: Waffle – Native macOS terminal that auto-tiles sessions into a grid,entertainment,38,20,olleeolleeollee,2026-04-13 21:22:12
+47736071,The Universal Standard Book Number,entertainment,13,4,novalis78,2026-04-13 21:22:18
+47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",entertainment,48,25,behat,2026-04-13 21:22:20
+47715339,Show HN: Keeper – embedded secret store for Go (help me break it),entertainment,63,33,babawere,2026-04-13 21:22:51
+47737387,Show HN: Bullseye2D – A Dart library for cross-platform 2D games,entertainment,4,0,joemanaco,2026-04-13 21:23:07
+47733479,Show HN: A Better Internet,entertainment,10,3,tclancy,2026-04-13 21:23:09
+47729994,Polymarket gamblers betting millions on war,worldnews,158,127,sandebert,2026-04-13 21:23:15
+47692043,Muse Spark: Scaling towards personal superintelligence,worldnews,392,367,chabons,2026-04-13 21:23:18
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",sports,118,36,pruz,2026-04-13 21:23:22
+47694036,Show HN: Orange Juice – Small UX improvements that make HN easier to read,entertainment,147,158,latchkey,2026-04-13 21:23:24
+47693960,Flashback to a time when government reports were works of art,worldnews,30,12,NaOH,2026-04-13 21:23:28
+47704430,Can It Resolve Doom? Game Engine in 2k DNS Records,entertainment,10,2,choult,2026-04-13 21:23:29
+47690797,Show HN: Go-Bt: Minimalist Behavior Trees for Go,entertainment,62,12,rvitorper,2026-04-13 21:23:34
+47710835,"Show HN: Rust based eBook library for Python, with MIT license",entertainment,33,3,larry-the-agent,2026-04-13 21:23:36
+47723243,Combining spicy foods with mint boosts anti-inflammatory effects 100x or more,sports,87,49,joeax,2026-04-13 21:23:45
+47722566,DOJ wants to scrap Watergate-era rule that makes presidential records public,worldnews,260,69,tlhunter,2026-04-13 21:24:00
+47733222,Show HN: Bitcoin and Quantum Computing – a three-part research series,science,6,1,nvk,2026-04-13 21:24:09
+47718694,"""Negative"" views of Broadcom driving VMware migrations, rival says",worldnews,76,39,breve,2026-04-13 21:24:12
+47717514,"Inflation Rose to 3.3% in March, Driven by Rising Fuel Costs",sports,63,3,JumpCrisscross,2026-04-13 21:24:14
+47711623,Mexico's President Sheinbaum Decrees Universal Healthcare for 120M,worldnews,61,32,testing22321,2026-04-13 21:24:54
+47717565,"Show HN: Steadcast – Free Mac podcast player for learning, not background noise",sports,7,1,steadcast,2026-04-13 21:25:19
+47725942,Warez Scene,worldnews,25,7,maltalex,2026-04-13 21:25:26
+47731064,Valve Developer Improves the Linux Gaming Experience for Limited VRAM Hardware,worldnews,13,0,bpierre,2026-04-13 21:25:34
